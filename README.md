@@ -10,10 +10,6 @@ X: https://x.com/1l0ck
 - Random delays between votes
 - Detailed logging system
 - Support for both ID and full URL submission formats
-## Environment
-- Windows 7/8/8.1/10/11 (x64 only)
-- macOS Intel/M1/M2
-- Linux x64
 ## Installation
 1. Clone the repository
 ```bash
